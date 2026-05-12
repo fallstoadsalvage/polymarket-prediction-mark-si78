@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket algorithm with Polymarket quantitative Algorithm: API-integration & prediction-market-scanning. Featuring API-integration and
 
 
 
